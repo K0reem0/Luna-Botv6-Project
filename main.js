@@ -33,7 +33,7 @@ import { startAutoCleanService } from './auto-cleaner.js';
 import { privacyConfig, cleanOldUserData, secureLogger } from './privacy-config.js';
 
 const { chain } = lodash;
-const PORT = process.env.PORT || process.env.SERVER_PORT || 3000;
+const PORT = 8000;
 let stopped = 'close';  
 let pairingTimeout = null;
 let pairingStartTime = null;
