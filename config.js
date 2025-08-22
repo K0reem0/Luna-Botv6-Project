@@ -13,7 +13,7 @@ global.authFile = `MysticSession`;
 // Error de m.isBaileys marcado como false fix temporal
 global.isBaileysFail = false
 
-global.defaultLenguaje = 'es';
+global.defaultLenguaje = 'ar';
 
 global.lidOwners = [
   "128213531545849",
@@ -23,14 +23,14 @@ global.lidOwners = [
 ];
 
 global.owner = [
-  ['5493483466763', '👑 Ehl villano 👑', true],
-  ['50259727165', 'MOD-DECO', true],
-  ['5217551392489', 'MOD-Jaz', true],
-  ['5217773461176', 'MOD-ALEXA', true],
+  ['966560801636', '👑 Ehl villano 👑', true],
+  ['966560801636', 'MOD-DECO', true],
+  ['966560801636', 'MOD-Jaz', true],
+  ['966560801636', 'MOD-ALEXA', true],
 ];
 
-global.suittag = ['5493483466763'];
-global.prems = ['5493483466763'];
+global.suittag = ['966560801636'];
+global.prems = ['966560801636'];
 
 // API (INTERFAZ DE PROGRAMACIÓN DE APLICACIONES)
 global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
@@ -74,7 +74,7 @@ global.mysticbot = '';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '5493483466763';
+global.nomorown = '966560801636';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
